@@ -1,0 +1,15 @@
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/bin/Debug/net7.0/ReadFileIncSharp
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/bin/Debug/net7.0/ReadFileIncSharp.deps.json
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/bin/Debug/net7.0/ReadFileIncSharp.runtimeconfig.json
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/bin/Debug/net7.0/ReadFileIncSharp.dll
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/bin/Debug/net7.0/ReadFileIncSharp.pdb
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.csproj.AssemblyReference.cache
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.AssemblyInfoInputs.cache
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.AssemblyInfo.cs
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.dll
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/refint/ReadFileIncSharp.dll
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.pdb
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ReadFileIncSharp.genruntimeconfig.cache
+/Users/mac/Documents/ReadFileIncSharp/ReadFileIncSharp/obj/Debug/net7.0/ref/ReadFileIncSharp.dll

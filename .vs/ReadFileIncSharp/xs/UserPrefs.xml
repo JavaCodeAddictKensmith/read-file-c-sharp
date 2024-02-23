@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ABF13F03-75DE-4D7F-86BF-520543CEE907}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReadFileIncSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFileIncSharp/ReadDirInfo/Program.cs">
+    <Files>
+      <File FileName="ReadFileIncSharp/ReadDirInfo/Program.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
